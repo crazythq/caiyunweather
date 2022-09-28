@@ -1,0 +1,15 @@
+{
+  "name": "fyweather_noui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "crazythq",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "utools-helper": "^2.1.0"
+  },
+  "devDependencies": {
+    "utools-api-types": "^3.0.0"
+  }
+}
