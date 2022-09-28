@@ -35,7 +35,8 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "fyweather"
-          entrypoint: "./server_deno/index.html"
+          entrypoint: "./server_deno/dist/index.ts"
+
   test:
     runs-on: ubuntu-latest
 
