@@ -1,0 +1,13 @@
+{
+  "name": "fyweather_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "crazythq",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+  }
+}

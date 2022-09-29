@@ -1,0 +1,22 @@
+{
+	"pluginName": "风云天气",
+	"description": "查看天气的简易小工具",
+	"author": "crazythq",
+	"homepage": "https://gitee.com/crazythq/fyweather",
+	"preload": "preload.js",
+	"version": "1.0.0",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "fyweather",
+			"explain": "快速搜索天气预报",
+			"cmds": [
+				"风云天气",
+				"天气",
+				"weather",
+				"fyweather"
+			],
+			"icon": "logo.png"
+		}
+	]
+}
